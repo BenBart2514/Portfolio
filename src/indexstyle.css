@@ -1,0 +1,17 @@
+
+main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-color: #e6e6e6b3;
+    width: 80%;
+    border-radius: 40%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: fit-content;
+}

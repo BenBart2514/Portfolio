@@ -1,0 +1,58 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-shadow: 0.5px 0.5px 1px #0a0a0a;
+    font-family: 'Source Code Pro', 'Source Sans Pro', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', 'Arial', 'Helvetica', sans-serif;
+}
+
+body {
+    background-image: url("./../docs/background.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 3.2vmax;
+}
+
+.intro {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.8vmax;
+    width: 90%;
+}
+
+nav {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border: solid 2px #0a0a0a;
+    border-radius: 50%;
+    box-shadow: 2px 5px 10px #0a0a0a;
+    background-color: #1e6ef0;
+    padding: 5px 10px;
+    margin: 10px 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fafafa;
+}
+
+.link:hover {
+    color: #0a0a0a;
+    transform: scale(1.2)
+}
