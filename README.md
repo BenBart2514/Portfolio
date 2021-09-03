@@ -18,8 +18,13 @@ The main target audience of this portfolio is potential employers, who may see t
 
 # Tech Stack
 HTML
+
 CSS
+
 VSCode
+
 Balsamic Wireframes
+
 Google Slides
+
 Github

@@ -1,0 +1,75 @@
+main {
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    grid-template-rows: 2fr 1fr 2fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.social {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#facebook {
+    grid-area: 1 / 2 / 2 / 3;
+    position: relative;
+    top: 20%;
+    background-image: url("../docs/facebook.png");
+    background-size: cover;
+}
+
+#github {
+    grid-area: 1 / 3 / 2 / 4;
+    position: relative;
+    top: -10%;
+    background-image: url("../docs/github.png");
+    background-size: cover;
+}
+
+#linkedin {
+    grid-area: 1 / 4 / 2 / 5;
+    position: relative;
+    top: 20%;
+    background-image: url("../docs/linkedin.png");
+    background-size: cover;
+}
+
+.social img {
+    height: 70px;
+}
+
+header {
+    grid-area: 2 / 1 / 3 / 6;
+}
+
+section {
+    grid-area: 3 / 2 / 4 / 5;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    background-color: #f8f8f8cc;
+    border: solid 1px #80808080;
+    box-shadow: 3px 3px 5px;
+}
+
+button a {
+    color: black;
+    font-size: 3.2vmin;
+    text-decoration: none;
+    text-shadow: 0.5px 0.5px 1px #0a0a0a;
+    font-family: 'Source Code Pro', 'Source Sans Pro', monospace;
+}
+
+section p, a {
+    color: white;
+}
