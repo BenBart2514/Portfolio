@@ -11,15 +11,15 @@ The website funtionality is simple and easy to understand. Four pages in total i
 link: https://github.com/BenBart2514/Portfolio/blob/main/docs/Sitemap.png
 
 # Screenshots
-![Screenshot of Home Page]()
-![Screenshot of About Me Page]()
-![Screenshot of About Me Page - Hobbies]()
-![Screenshot of About Me Page - Goals]()
-![Screenshot of About Me Page - Work]()
-![Screenshot of About Me Page - Study]()
-![Screenshot of Blogs Page 1]()
-![Screenshot of Blogs Page 2]()
-![Screenshot of Contact Page]()
+![Screenshot of Home Page](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshothome.png)
+![Screenshot of About Me Page](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotabout1.png)
+![Screenshot of About Me Page - Hobbies](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotabout2.png)
+![Screenshot of About Me Page - Goals](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotabout3.png)
+![Screenshot of About Me Page - Work](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotabout4.png)
+![Screenshot of About Me Page - Study](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotabout5.png)
+![Screenshot of Blogs Page 1](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotblogs1.png)
+![Screenshot of Blogs Page 2](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotblogs2.png)
+![Screenshot of Contact Page](https://github.com/BenBart2514/Portfolio/blob/main/docs/screenshotcontact.png)
 
 # Target Audience
 The main target audience of this portfolio is potential employers, who may see this website as proof of my ability to add value to their business. Additionally, anyone who may want to know more about me may find this website useful.
