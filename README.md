@@ -1,3 +1,6 @@
+# Links
+https://bb-portfolio.netlify.app/
+
 https://github.com/BenBart2514/Portfolio
 
 # Portfolio Purpose

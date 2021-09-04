@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Image Component - Background */
 body {
-    background-image: url("./../docs/background.png");
+    background-image: url("./background.png");
     background-attachment: fixed;
     background-size: cover;
 }
