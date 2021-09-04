@@ -11,16 +11,20 @@ header {
     grid-area: 3 / 1 / 4 / 5;
 }
 
-button {
+section {
     width: 80px;
     height: 80px;
     border-radius: 50px;
     background-color: #f8f8f8cc;
     border: solid 1px #80808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     box-shadow: 3px 3px 5px;
     overflow: auto;
 }
 
+/* Text Component - Hobbies */
 #hobbies {
     grid-area: 1 / 1 / 2 / 2;
 }
@@ -46,7 +50,9 @@ button {
     display: flex;
     align-items: center;
 }
+/* Text Component - Hobbies */
 
+/* Text Component - Goals */
 #goals {
     grid-area: 2 / 4 / 3 / 5;
 }
@@ -72,7 +78,9 @@ button {
     display: flex;
     align-items: center;
 }
+/* Text Component - Goals */
 
+/* Text Component - Work */
 #work {
     grid-area: 4 / 1 / 5 / 2;
 }
@@ -98,7 +106,9 @@ button {
     display: flex;
     align-items: center;
 }
+/* Text Component - Work */
 
+/* Text Component - Study */
 #study {
     grid-area: 5 / 4 / 6 / 5;
 }
@@ -124,3 +134,4 @@ button {
     display: flex;
     align-items: center;
 }
+/* Text Component - Study */

@@ -6,6 +6,7 @@ main {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
+/* Image Component - Call to action, Facebook, Github and Linkedin */
 .social {
     width: 75px;
     height: 75px;
@@ -13,56 +14,56 @@ main {
     background-color: rgba(255, 255, 255, 0);
 }
 
-#facebook {
+.social img {
+    height: 70px;
+}
+/* Image Component - Call to action, Facebook, Github and Linkedin */
+
+#facebook { /* Image Component - Call to action, Facebook */
     grid-area: 1 / 2 / 2 / 3;
     position: relative;
     top: 20%;
     background-image: url("../docs/facebook.png");
     background-size: cover;
-}
+} /* Image Component - Call to action, Facebook */
 
-#github {
+#github { /* Image Component - Call to action, Guthub */
     grid-area: 1 / 3 / 2 / 4;
     position: relative;
     top: -10%;
     background-image: url("../docs/github.png");
     background-size: cover;
-}
+} /* Image Component - Call to action, Github */
 
-#linkedin {
+#linkedin { /* Image Component - Call to action, Linkedin */
     grid-area: 1 / 4 / 2 / 5;
     position: relative;
     top: 20%;
     background-image: url("../docs/linkedin.png");
     background-size: cover;
-}
-
-.social img {
-    height: 70px;
-}
+} /* Image Component - Call to action, Linkedin */
 
 header {
     grid-area: 2 / 1 / 3 / 6;
 }
 
-section {
+/* Text Component - Call to action, Resume and Email */
+section { 
     grid-area: 3 / 2 / 4 / 5;
-    height: 80%;
+    height: 75%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-evenly;
 }
 
-button {
+#resume {
     display: flex;
     justify-content: center;
     background-color: #f8f8f8cc;
     border: solid 1px #80808080;
     box-shadow: 3px 3px 5px;
-}
-
-button a {
+    border-radius: 2px;
     color: black;
     font-size: 3.2vmin;
     text-decoration: none;
@@ -70,6 +71,13 @@ button a {
     font-family: 'Source Code Pro', 'Source Sans Pro', monospace;
 }
 
-section p, a {
+section p {
     color: white;
+    text-shadow: 0.5px 0.5px 1px #0a0a0a;
 }
+
+#email {
+    color: white;
+    text-shadow: 0.5px 0.5px 1px #0a0a0a;
+}
+/* Text Component - Call to action, Resume and Email */

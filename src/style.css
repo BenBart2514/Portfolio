@@ -9,11 +9,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', 'Arial', 'Helvetica', sans-serif;
 }
 
+/* Image Component - Background */
 body {
     background-image: url("./../docs/background.png");
     background-attachment: fixed;
     background-size: cover;
 }
+/* Image Component - Background */
 
 header {
     background-color: #e6e6e6b3;
@@ -41,6 +43,7 @@ h1 {
     width: 90%;
 }
 
+/* Text Component - Navbar */
 nav {
     width: 50%;
     display: flex;
@@ -66,3 +69,4 @@ nav {
     color: #0a0a0a;
     transform: scale(1.2)
 }
+/* Text Component - Navbar */

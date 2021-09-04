@@ -11,7 +11,15 @@ The website funtionality is simple and easy to understand. Four pages in total i
 link: https://github.com/BenBart2514/Portfolio/blob/main/docs/Sitemap.png
 
 # Screenshots
-Coming Soon to a readme near you!
+![Screenshot of Home Page]()
+![Screenshot of About Me Page]()
+![Screenshot of About Me Page - Hobbies]()
+![Screenshot of About Me Page - Goals]()
+![Screenshot of About Me Page - Work]()
+![Screenshot of About Me Page - Study]()
+![Screenshot of Blogs Page 1]()
+![Screenshot of Blogs Page 2]()
+![Screenshot of Contact Page]()
 
 # Target Audience
 The main target audience of this portfolio is potential employers, who may see this website as proof of my ability to add value to their business. Additionally, anyone who may want to know more about me may find this website useful.
