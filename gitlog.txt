@@ -1,0 +1,67 @@
+commit 47b7c15a2c54fb71d1e7a1fd3ac46a56aa8e795c
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Sat Sep 4 12:51:19 2021 +1000
+
+    implemented SRI on CSS
+
+commit d633bfdfb988007528810e12482df89813e74a92
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Sat Sep 4 12:43:36 2021 +1000
+
+    moved code specific images to src folder
+
+commit 2250713fa46382c669825502e297d9e8512be090
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Sat Sep 4 12:17:50 2021 +1000
+
+    added screenshots to README
+
+commit 63d48e731bd3d322e06ffce9fd79ffbe908b218b
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Sat Sep 4 12:12:06 2021 +1000
+
+    code components commented, uploaded screenshots
+
+commit aafe2664d98ca4b30f69a6c4830a4dd00127d8f0
+Merge: c9bac64 cbefb13
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Fri Sep 3 16:43:02 2021 +1000
+
+    Merge branch 'main' of https://github.com/BenBart2514/Portfolio into main
+
+commit c9bac645d119bbf41d08572a2df09eec14e8c5b2
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Fri Sep 3 16:41:56 2021 +1000
+
+    created blogs and contact page, docs included, modified README unfinalised
+
+commit cbefb1395019f2c38eb93d96ed0096a5294d618b
+Author: BenBart2514 <88809297+BenBart2514@users.noreply.github.com>
+Date:   Fri Sep 3 11:22:14 2021 +1000
+
+    Added pdf version of slide deck
+
+commit 780434fce50a222902f8b692c04c5a3a8b45dd06
+Merge: 614ee6f 71063ca
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Fri Sep 3 11:16:50 2021 +1000
+
+    Merge branch 'main' of https://github.com/BenBart2514/Portfolio into main
+
+commit 614ee6f4480155995d7118a3dac8c9840d0cfbfd
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Fri Sep 3 11:15:16 2021 +1000
+
+    updated README, still requires screenshots
+
+commit 71063ca701885e37ff42b0e5ea85a0ce2a58f58d
+Author: BenBart2514 <88809297+BenBart2514@users.noreply.github.com>
+Date:   Fri Sep 3 10:57:25 2021 +1000
+
+    Added wireframes and sitemap
+
+commit 853b79a8e3df0483978f7b4385469339b42f87a5
+Author: BenBart2514 <b.bartholomew2514@gmail.com>
+Date:   Fri Sep 3 10:37:43 2021 +1000
+
+    innitial commit
